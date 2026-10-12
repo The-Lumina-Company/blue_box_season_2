@@ -308,7 +308,7 @@ Dialogue: 0,0:17:21.96,0:17:23.46,Default,,0,0,0,,Ben doğuştan yetenekliyim,
 Dialogue: 0,0:17:23.46,0:17:26.46,Default,,0,0,0,,bu yüzden yeteneğe özenmenin\Nnasıl bir duygu olduğunu bilmem
 Dialogue: 0,0:17:26.46,0:17:31.13,Default,,0,0,0,,ama onun çalışma azmine imreniyorum.
 Dialogue: 0,0:17:36.06,0:17:37.93,Default,,0,0,0,,{\i1}Fırtına gibiydi.{\i}
-Dialogue: 0,0:17:38.72,0:17:41.23,Default,,0,0,0,,{\i1}Engellerin önünü kesmesine izin vermezdi,{\i}
+Dialogue: 0,0:17:38.72,0:17:41.23,Default,,0,0,0,,{\i1}Engellerin önünü kesmesine izin vermezdi{\i}
 Dialogue: 0,0:17:41.23,0:17:44.10,Default,,0,0,0,,{\i1}ve insanları kendine çeken\Nbüyüleyici bir havası vardı.{\i}
 Dialogue: 0,0:17:45.19,0:17:46.86,Default,,0,0,0,,Eimei'ye giriş için tavsiye aldın mı?
 Dialogue: 0,0:17:47.73,0:17:48.73,Default,,0,0,0,,Sen de mi gelmek istiyorsun?
@@ -379,7 +379,7 @@ Dialogue: 0,0:21:19.86,0:21:21.86,Default,,0,0,0,,Yine de her galibiyetin peşin
 Dialogue: 0,0:21:22.70,0:21:25.78,Default,,0,0,0,,Eğlenceli olduğu için\Nher topun peşinden koşuyoruz.
 Dialogue: 0,0:21:26.49,0:21:27.87,Default,,0,0,0,,{\i1}Şimdi anlıyorum.{\i}
 Dialogue: 0,0:21:27.87,0:21:30.62,Default,,0,0,0,,{\i1}Cevap çok basitti aslında.{\i}
-Dialogue: 0,0:21:30.62,0:21:32.21,Default,,0,0,0,,Başkaları ne derse desin,
+Dialogue: 0,0:21:30.62,0:21:32.21,Default,,0,0,0,,Başkaları ne derse desin
 Dialogue: 0,0:21:32.21,0:21:34.13,Default,,0,0,0,,ya da iyi oynayamamış olsan ne fark eder?
 Dialogue: 0,0:21:34.71,0:21:37.25,Default,,0,0,0,,Sırf bu yüzden bile\Nbırakmamış olman gerekirdi.
 Dialogue: 0,0:21:37.25,0:21:40.80,Default,,0,0,0,,{\i1}O kadar yetenekli ki başarısız olmaktan\Nkorktu ve kaçtı.{\i}
