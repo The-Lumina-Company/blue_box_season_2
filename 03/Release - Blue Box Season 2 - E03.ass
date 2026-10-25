@@ -1,0 +1,300 @@
+[Script Info]
+Title: The-Lumina-Company - Blue Box Season 2
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Arial,Arial,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+Style: Default,Lumina,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:11.58,Arial,,0,0,0,,{\an4\fnLT Comical\fscx95\fscy95\bord2.2\shad2.2\blur0.6\pos(40,520)\c&HFF901E&}Çeviri: {\c&HFFFFFF&}KeySkop{\fscy34.5}\N{\fscy95\c&HFF901E&}Redaksiyon: {\c&HFFFFFF&}ka4qnn{\fscy34.5}\N{\fscy95\c&HFF901E&}Encode: {\c&HFFFFFF&}ka4qnn{\fscy34.5}\N{\fscy95\c&HFF901E&}Upload: {\c&HFFFFFF&}shxd.{\fscy34.5}\N{\fscx76.5\fscy76.5\c&HAAAAAA&\b0}discord.gg/luminaceviri
+Dialogue: 9,0:00:14.22,0:00:16.18,Default,,0,0,0,,Ne bahanesi uyduruyorsun?
+Dialogue: 9,0:00:16.18,0:00:17.35,Default,,0,0,0,,Ne?
+Dialogue: 9,0:00:17.93,0:00:20.35,Default,,0,0,0,,Lise yıllarında bunu telafi edebilirdin.
+Dialogue: 0,0:00:20.98,0:00:23.94,Default,,0,0,0,,{\an8}Senden daha iyi insanların \Nolması gayet doğal.
+Dialogue: 0,0:00:23.94,0:00:25.36,Default,,0,0,0,,{\an8}Ama mesele bu değil.
+Dialogue: 9,0:00:25.94,0:00:27.24,Default,,0,0,0,,Mesele bu değil.
+Dialogue: 9,0:00:29.61,0:00:30.99,Default,,0,0,0,,{\i1}Ne!?
+Dialogue: 9,0:00:30.99,0:00:32.24,Default,,0,0,0,,Elbette...
+Dialogue: 9,0:00:33.24,0:00:36.75,Default,,0,0,0,,Bunu bizzat yaşamayan \Nbiri için konuşması kolay.
+Dialogue: 9,0:00:49.42,0:00:50.80,Default,,0,0,0,,Yani, yanılıyor muyum?
+Dialogue: 9,0:00:50.80,0:00:52.89,Default,,0,0,0,,Çok sinir bozucusun.
+Dialogue: 9,0:00:52.89,0:00:56.60,Default,,0,0,0,,Şu kendinden emin tavrın \Nbeni gerçekten sinir ediyor.
+Dialogue: 9,0:00:57.60,0:01:00.56,Default,,0,0,0,,Bu işe karışma. Zaten Natsu'yu \Nbir daha görmeyeceğim.
+Dialogue: 9,0:01:01.14,0:01:04.90,Default,,0,0,0,,Sebepsiz yere ona ilk saldıran sendin!
+Dialogue: 0,0:01:05.48,0:01:08.98,Default,,0,0,0,,{\an8}Çünkü ulusal şampiyonluğu kazanacağını söylemesine rağmen dışarıda oyalanıyordu!
+Dialogue: 9,0:01:08.99,0:01:11.15,Default,,0,0,0,,Antrenmanlara gayretle devam ediyor!
+Dialogue: 9,0:01:11.15,0:01:12.74,Default,,0,0,0,,Eskiden çok daha fazla antrenman yapardı.
+Dialogue: 9,0:01:12.74,0:01:14.87,Default,,0,0,0,,Bildiğin basketbolla yaşıyordu.
+Dialogue: 9,0:01:14.87,0:01:18.58,Default,,0,0,0,,O kadar iyi olabilmesinin tek nedeni, herkesten daha çok çalışmış olmasıydı!
+Dialogue: 9,0:01:18.58,0:01:20.91,Default,,0,0,0,,Hem sosyal hayatını yaşayıp \Nhem de en iyisi olamaz!
+Dialogue: 9,0:01:25.92,0:01:27.92,Default,,0,0,0,,{\i1}Bekle.
+Dialogue: 9,0:01:28.59,0:01:32.26,Default,,0,0,0,,{\i1}Sadece Chinatsu Senpai için endişeleniyor.
+Dialogue: 9,0:01:32.26,0:01:34.01,Default,,0,0,0,,Goto-san?
+Dialogue: 9,0:01:34.01,0:01:36.93,Default,,0,0,0,,Inomata-san? Bir şey mi oldu?
+Dialogue: 9,0:01:37.81,0:01:39.18,Default,,0,0,0,,Önemli bir şey değil.
+Dialogue: 9,0:01:41.06,0:01:45.31,Default,,0,0,0,,{\i1}Biliyordum, aralarındaki \Nilişkiler böyle devam edemez...
+Dialogue: 9,0:01:49.48,0:01:53.66,Default,,0,0,0,,BLUE BOX SEZON 2
+Dialogue: 9,0:03:16.78,0:03:20.53,Default,,0,0,0,,BÖLÜM 28\NİKİSİ DE AYNI ŞEY
+Dialogue: 9,0:03:32.09,0:03:33.63,Default,,0,0,0,,Günaydın.
+Dialogue: 9,0:03:36.55,0:03:39.93,Default,,0,0,0,,Taiki, şu yemekleri bentolara koy!
+Dialogue: 0,0:03:36.55,0:03:39.93,Default,,0,0,0,,{\fscx75\fscy75\pos(38,38.667)} {\an7} *: Bento, yemekleri birbirine karıştırmadan taşımayı sağlayan Japon usulü bir sefer tasıdır.
+Dialogue: 9,0:03:40.60,0:03:42.30,Default,,0,0,0,,Fazla mı uyudun?
+Dialogue: 9,0:03:42.31,0:03:44.35,Default,,0,0,0,,Benim suçum değil, sadece \NKore dizileri çok zevkliydi!
+Dialogue: 9,0:03:45.10,0:03:47.23,Default,,0,0,0,,{\i1}Ne kadar çocukça bir bahane.
+Dialogue: 9,0:03:48.02,0:03:49.35,Default,,0,0,0,,Peki ya Chinatsu Senpai?
+Dialogue: 9,0:03:49.94,0:03:51.90,Default,,0,0,0,,Onu önden gönderdim.
+Dialogue: 9,0:03:51.90,0:03:54.36,Default,,0,0,0,,Ne de olsa Kış Kupası yaklaşıyor.
+Dialogue: 9,0:03:55.69,0:03:58.32,Default,,0,0,0,,Ona bir bento götürür müsün?
+Dialogue: 9,0:03:58.32,0:04:00.07,Default,,0,0,0,,Kulüp odasının önüne bırak.
+Dialogue: 9,0:04:00.07,0:04:01.12,Default,,0,0,0,,Tamam, peki.
+Dialogue: 9,0:04:03.08,0:04:05.70,Default,,0,0,0,,{\i1}Chinatsu Senpai'nin öğle yemeği.
+Dialogue: 9,0:04:06.20,0:04:07.12,Default,,0,0,0,,İYİ ŞANSLAR
+Dialogue: 9,0:04:07.12,0:04:10.63,Default,,0,0,0,,{\i1}Böyle bir şey yaparsam\Nmutlu olur mu acaba?
+Dialogue: 9,0:04:12.04,0:04:13.63,Default,,0,0,0,,{\i1}Tabii ki de yapmayacağım.
+Dialogue: 9,0:04:14.25,0:04:16.46,Default,,0,0,0,,{\i1}Ona en büyük sosisi koyacağım.
+Dialogue: 9,0:04:16.46,0:04:18.72,Default,,0,0,0,,{\i1}Ve bol bol sebze.
+Dialogue: 9,0:04:18.72,0:04:20.80,Default,,0,0,0,,{\i1}Ve en güzel görünen tamagoyaki*.
+Dialogue: 0,0:04:18.72,0:04:20.80,Default,,0,0,0,,{\fscx75\fscy75\pos(38,38.667)} {\an7}*: Tamagoyaki, Japon mutfağına ait, kat kat sarılarak pişirilen bir tür Japon omletidir.\N
+Dialogue: 0,0:04:23.68,0:04:26.06,Default,,0,0,0,,{\an8}Kapağı oraya sığdırmanın imkânı yok.
+Dialogue: 0,0:04:26.06,0:04:27.39,Default,,0,0,0,,{\an8}Biliyordum.
+Dialogue: 9,0:04:29.06,0:04:30.35,Default,,0,0,0,,Gidiyorum!
+Dialogue: 9,0:04:37.65,0:04:38.65,Default,,0,0,0,,Taiki!
+Dialogue: 9,0:04:39.99,0:04:41.78,Default,,0,0,0,,Bugün geç kaldın.
+Dialogue: 9,0:04:41.78,0:04:43.57,Default,,0,0,0,,Markete uğradım.
+Dialogue: 9,0:04:43.57,0:04:45.16,Default,,0,0,0,,-Sıradaki!\N-Tamam!
+Dialogue: 9,0:04:47.00,0:04:48.29,Default,,0,0,0,,-Sıradaki!\N-Tamam!
+Dialogue: 9,0:04:50.37,0:04:52.79,Default,,0,0,0,,Basketbol takımının\Nyakında turnuvası vardı, değil mi?
+Dialogue: 9,0:04:53.71,0:04:58.38,Default,,0,0,0,,Bir takımın turnuvası yaklaştığında spor salonunun havası tamamen değişiyor.
+Dialogue: 9,0:04:58.38,0:05:00.55,Default,,0,0,0,,Ortam sessiz ve gergin.
+Dialogue: 9,0:05:01.43,0:05:03.55,Default,,0,0,0,,Onların gerginliğini biz de hissedebiliyoruz.
+Dialogue: 9,0:05:04.22,0:05:05.05,Default,,0,0,0,,Evet.
+Dialogue: 0,0:05:09.06,0:05:10.14,Default,,0,0,0,,{\an8}Anlıyorum.
+Dialogue: 9,0:05:11.23,0:05:12.35,Default,,0,0,0,,Günaydın!
+Dialogue: 9,0:05:12.35,0:05:13.40,Default,,0,0,0,,Günaydın.
+Dialogue: 9,0:05:15.82,0:05:17.07,Default,,0,0,0,,Günaydın.
+Dialogue: 9,0:05:21.32,0:05:23.07,Default,,0,0,0,,-Günaydın.\N-Görüşürüz.
+Dialogue: 9,0:05:26.66,0:05:27.99,Default,,0,0,0,,Endişelenme.
+Dialogue: 9,0:05:29.16,0:05:32.83,Default,,0,0,0,,Bütün bunlara rağmen ritmik \Njimnastikte harika işler çıkarıyor.
+Dialogue: 9,0:05:33.46,0:05:38.17,Default,,0,0,0,,Anlaşılan Hina’nın hayatında sandığımdan daha az bir etki bırakmışsın.
+Dialogue: 9,0:05:41.17,0:05:43.38,Default,,0,0,0,,{\i1}Ne demek istiyor acaba?
+Dialogue: 9,0:06:00.69,0:06:03.99,Default,,0,0,0,,Bu kimin bentosu?
+Dialogue: 9,0:06:03.99,0:06:05.74,Default,,0,0,0,,Benim.
+Dialogue: 9,0:06:21.05,0:06:23.22,Default,,0,0,0,,Acele etmeliyiz, Chinatsu.
+Dialogue: 9,0:06:23.22,0:06:24.22,Default,,0,0,0,,Tamam.
+Dialogue: 9,0:06:26.97,0:06:27.89,Default,,0,0,0,,Pas!
+Dialogue: 9,0:06:28.60,0:06:29.97,Default,,0,0,0,,Bastır!
+Dialogue: 9,0:06:29.97,0:06:31.89,Default,,0,0,0,,Sayı atalım!
+Dialogue: 9,0:06:37.23,0:06:38.65,Default,,0,0,0,,Geri dön!
+Dialogue: 9,0:06:43.15,0:06:44.53,Default,,0,0,0,,10 dakikalık mola!
+Dialogue: 9,0:06:44.53,0:06:45.74,Default,,0,0,0,,Tamam!
+Dialogue: 9,0:06:55.08,0:06:57.38,Default,,0,0,0,,Yuna, biraz vaktin var mı?
+Dialogue: 9,0:06:58.13,0:06:59.38,Default,,0,0,0,,N'oldu?
+Dialogue: 9,0:07:00.04,0:07:03.88,Default,,0,0,0,,O son pozisyonda şutu kendin de atabilirdin.
+Dialogue: 9,0:07:04.51,0:07:07.39,Default,,0,0,0,,Saya’yı tamamen sarmışlardı.
+Dialogue: 9,0:07:07.97,0:07:12.64,Default,,0,0,0,,Seni zorlamak istemem ama bence biraz daha sert oynamalısın.
+Dialogue: 9,0:07:12.64,0:07:16.27,Default,,0,0,0,,Antrenmandan sonra ya da sabahları seninle alıştırma yapmak isterim.
+Dialogue: 0,0:07:16.27,0:07:17.48,Default,,0,0,0,,{\an8}Üzgünüm!
+Dialogue: 9,0:07:17.48,0:07:19.15,Default,,0,0,0,,Zaten biliyordum!
+Dialogue: 9,0:07:19.77,0:07:23.90,Default,,0,0,0,,Yeterince iyi olmadığımı ve \Ntakımı geriye çektiğimi biliyorum.
+Dialogue: 0,0:07:24.69,0:07:25.90,Default,,0,0,0,,{\an8}Biliyor musun?
+Dialogue: 9,0:07:26.53,0:07:30.78,Default,,0,0,0,,Herkes senin kadar sıkı çalışamaz.
+Dialogue: 9,0:07:33.49,0:07:36.50,Default,,0,0,0,,Üzgünüm! Bir an kendimi kaybettim!
+Dialogue: 9,0:07:36.50,0:07:38.50,Default,,0,0,0,,Sorun değil.
+Dialogue: 9,0:07:38.50,0:07:42.42,Default,,0,0,0,,Ben de mükemmel değilim. Birlikte elimizden gelenin en iyisini yapalım.
+Dialogue: 9,0:08:09.28,0:08:11.28,Default,,0,0,0,,Yine ilk gelen sen misin?
+Dialogue: 9,0:08:11.28,0:08:12.66,Default,,0,0,0,,Ne?
+Dialogue: 9,0:08:12.66,0:08:15.08,Default,,0,0,0,,Hiç antrenmanı ekip oyun \Noynamak istemiyor musun?
+Dialogue: 9,0:08:15.95,0:08:19.08,Default,,0,0,0,,Ama ben basketbola\Ndiğerlerinden daha geç başladım.
+Dialogue: 9,0:08:20.00,0:08:24.21,Default,,0,0,0,,Geri kalmamak için her gün en az 1 saat fazladan çalışmam gerekiyor.
+Dialogue: 9,0:08:24.21,0:08:28.63,Default,,0,0,0,,Böyle devam edersem, 24 günde bir günlük antrenman süresi kadar çalışmış olurum.
+Dialogue: 9,0:08:28.63,0:08:33.60,Default,,0,0,0,,Yani bunu bir yıla yayarsak...
+Dialogue: 9,0:08:33.60,0:08:35.35,Default,,0,0,0,,Başka bir şey yapmaya vaktim kalmıyor!
+Dialogue: 9,0:08:36.60,0:08:39.35,Default,,0,0,0,,Bunu düşünmek başka, \Ngerçekten yapmak bambaşka.
+Dialogue: 9,0:08:39.98,0:08:43.36,Default,,0,0,0,,Bunu başarabilmen de senin yeteneğin.
+Dialogue: 9,0:09:10.47,0:09:12.26,Default,,0,0,0,,5:30 ALARM\NDURDUR  - ERTELE
+Dialogue: 9,0:09:21.10,0:09:25.40,Default,,0,0,0,,Herkesin senin kadar \Nsıkı çalışabileceğini sanma.
+Dialogue: 9,0:09:26.69,0:09:27.86,Default,,0,0,0,,Kahretsin!
+Dialogue: 9,0:09:56.22,0:09:57.51,Default,,0,0,0,,Günaydın.
+Dialogue: 9,0:09:57.51,0:09:59.26,Default,,0,0,0,,Günaydın!
+Dialogue: 9,0:09:59.27,0:10:00.43,Default,,0,0,0,,Günaydın.
+Dialogue: 9,0:10:01.02,0:10:03.23,Default,,0,0,0,,Öğle yemeğini masanın üzerine bıraktım.
+Dialogue: 9,0:10:03.23,0:10:05.19,Default,,0,0,0,,Bugün oldukça iyi.
+Dialogue: 9,0:10:05.86,0:10:07.27,Default,,0,0,0,,Ne de olsa kimse uyuyakalmadı.
+Dialogue: 9,0:10:07.27,0:10:08.73,Default,,0,0,0,,Pardon?
+Dialogue: 9,0:10:08.73,0:10:11.57,Default,,0,0,0,,Senin programına ayak uydurmak için her sabah erken kalkıyorum.
+Dialogue: 9,0:10:11.57,0:10:13.24,Default,,0,0,0,,Bana minnettar olmalısın.
+Dialogue: 9,0:10:13.82,0:10:15.70,Default,,0,0,0,,Minnettarım.
+Dialogue: 9,0:10:15.70,0:10:17.07,Default,,0,0,0,,Teşekkür ederim.
+Dialogue: 9,0:10:17.07,0:10:20.75,Default,,0,0,0,,Madem öyle, dükkândan benim için pasta alabilirsin.
+Dialogue: 9,0:10:21.33,0:10:23.00,Default,,0,0,0,,Kendini fazla kaptırma.
+Dialogue: 9,0:10:30.17,0:10:32.34,Default,,0,0,0,,-Hey, Taiki-kun.\N-Efendim?
+Dialogue: 9,0:10:32.34,0:10:36.76,Default,,0,0,0,,Hiç sabah antrenmanını \Natlamak istediğin oldu mu?
+Dialogue: 9,0:10:38.14,0:10:43.27,Default,,0,0,0,,{\i1}Chinatsu Senpai olmasaydı, belki yapabilirdim.
+Dialogue: 0,0:10:45.73,0:10:47.85,Default,,0,0,0,,{\an8}Tabii ki oldu.
+Dialogue: 0,0:10:47.86,0:10:50.52,Default,,0,0,0,,{\an8}Bazı günler yataktan kalkmak istemiyorum.
+Dialogue: 9,0:10:52.15,0:10:56.36,Default,,0,0,0,,Ama gitmek istemediğimde, sadece gelecekteki hâlimi düşünüyorum.
+Dialogue: 9,0:10:56.95,0:11:00.03,Default,,0,0,0,,Genellikle tekrar uykuya \Ndaldığıma pişman oluyorum.
+Dialogue: 9,0:11:00.95,0:11:04.04,Default,,0,0,0,,Hatta bazen de kendime kızıyorum.
+Dialogue: 9,0:11:04.66,0:11:07.29,Default,,0,0,0,,Bunları düşündüğümde,\Nuyanmam için motive oluyorum.
+Dialogue: 9,0:11:18.93,0:11:21.10,Default,,0,0,0,,Çok çalışkansın.
+Dialogue: 9,0:11:22.39,0:11:24.06,Default,,0,0,0,,{\i1}Sen mi bunu söylüyorsun?
+Dialogue: 9,0:11:44.95,0:11:47.21,Default,,0,0,0,,{\i1}Eğer bana bunu soruyorsa,
+Dialogue: 9,0:11:47.71,0:11:51.21,Default,,0,0,0,,{\i1}bu, onun da bazen antrenmanı\Natlamak istediği anlamına mı geliyor?
+Dialogue: 9,0:11:52.50,0:11:54.21,Default,,0,0,0,,{\i1}Bence öyledir.
+Dialogue: 9,0:11:54.80,0:11:57.97,Default,,0,0,0,,{\i1}Aslında bütün bunlara \NYumeka sayesinde başlamıştı.
+Dialogue: 9,0:11:58.59,0:12:02.97,Default,,0,0,0,,{\i1}Ama hiç ara vermeden devam etmek tam da Chinatsu Senpai'ye göre.
+Dialogue: 9,0:12:07.69,0:12:10.02,Default,,0,0,0,,{\i1}Yumeka yanlış bir düşünceye kapılmış.
+Dialogue: 9,0:12:11.06,0:12:14.53,Default,,0,0,0,,{\i1}Evet, Chinatsu Senpai kendi başına\Nhâlâ gayretle çalışmaya devam ediyor.
+Dialogue: 9,0:12:15.69,0:12:18.61,Default,,0,0,0,,{\i1}Ama bunun tek nedeni,\N onun bir hedefi olmasıdır.
+Dialogue: 9,0:12:19.45,0:12:21.62,Default,,0,0,0,,{\i1}Zor olmadığını söylemiyorum.
+Dialogue: 9,0:12:22.62,0:12:27.71,Default,,0,0,0,,{\i1}Keşke Yumeka, Chinatsu\N Senpai'nin yanında kalsaydı.
+Dialogue: 9,0:12:30.58,0:12:32.21,Default,,0,0,0,,Kız basketbol takımı nerede?
+Dialogue: 9,0:12:32.21,0:12:34.50,Default,,0,0,0,,Bu sabah bir hazırlık maçı yaptılar.
+Dialogue: 9,0:12:35.75,0:12:37.26,Default,,0,0,0,,Hey.
+Dialogue: 9,0:12:37.26,0:12:39.34,Default,,0,0,0,,Selam Koç, nasıl gidiyor?
+Dialogue: 9,0:12:39.34,0:12:43.89,Default,,0,0,0,,Kızların ilk Kış Kupası maçına\Nbilet isteyen var mı?
+Dialogue: 9,0:12:44.51,0:12:46.72,Default,,0,0,0,,Eşim aslında bileti almıştı.
+Dialogue: 9,0:12:46.72,0:12:51.39,Default,,0,0,0,,Ama annesi sırtını incitince ona yardım etmek için eve gitmek zorunda kaldı.
+Dialogue: 9,0:12:51.40,0:12:53.65,Default,,0,0,0,,Saha kenarında harika bir koltuk.
+Dialogue: 9,0:12:53.65,0:12:55.90,Default,,0,0,0,,Evet, ben, ben! Ben istiyorum!
+Dialogue: 0,0:12:57.07,0:13:00.49,Default,,0,0,0,,{\an8}Bana uyar ama senin antrenmanın yok mu?
+Dialogue: 9,0:13:00.49,0:13:04.87,Default,,0,0,0,,Aslında benim için değil, \Narkadaşım için istedim.
+Dialogue: 9,0:13:06.24,0:13:08.62,Default,,0,0,0,,Öyleyse ben alayım.
+Dialogue: 0,0:13:11.08,0:13:13.63,Default,,0,0,0,,{\an8}Yani, aslında gidebilirim.
+Dialogue: 0,0:13:13.63,0:13:15.13,Default,,0,0,0,,{\an8}İkisi de umurumda değil.
+Dialogue: 9,0:13:15.13,0:13:16.71,Default,,0,0,0,,Kesinlikle olmaz!
+Dialogue: 9,0:13:16.71,0:13:17.88,Default,,0,0,0,,Nedenmiş o?
+Dialogue: 9,0:13:17.88,0:13:21.47,Default,,0,0,0,,Basketbol takımında olduğum için maçı izlemek benim için daha faydalı olur.
+Dialogue: 9,0:13:21.47,0:13:23.59,Default,,0,0,0,,İlk ben istedim!
+Dialogue: 9,0:13:23.59,0:13:26.06,Default,,0,0,0,,Ama ilk gelenin bileti alacağına\N dair bir kural yoktu ki!
+Dialogue: 0,0:13:26.89,0:13:31.60,Default,,0,0,0,,{\an8\i1}Sadece onun Chinatsu Senpai'ye\Nyakınlaşmasını istemiyorum!
+Dialogue: 0,0:13:31.60,0:13:34.27,Default,,0,0,0,,{\an8}Şu atasözünü hiç duydunuz mu? \N"Erken kalkan yol alır."
+Dialogue: 9,0:13:34.27,0:13:37.98,Default,,0,0,0,,Bu sözü Japonca olarak\N duymayalı uzun zaman olmuştu.
+Dialogue: 9,0:13:37.98,0:13:40.74,Default,,0,0,0,,{\i1}Yine o, yurtdışında yaşamaktan övünüyor!
+Dialogue: 9,0:13:41.49,0:13:43.74,Default,,0,0,0,,Neyse, bununla ne istersen yap.
+Dialogue: 9,0:13:44.32,0:13:46.62,Default,,0,0,0,,Peki, bilet için yarışmaya ne dersin?
+Dialogue: 9,0:13:47.20,0:13:50.20,Default,,0,0,0,,Mesela...
+Dialogue: 9,0:13:50.20,0:13:54.12,Default,,0,0,0,,...mekik koşusunda daha uzun \Nsüre dayanabilen kişi kazanır.
+Dialogue: 9,0:13:54.71,0:13:56.08,Default,,0,0,0,,Mekik koşusu mu?
+Dialogue: 9,0:13:56.09,0:14:00.88,Default,,0,0,0,,Birbirimizin sporlarını yapmaktansa koşmanın daha adil olacağını düşündüm.
+Dialogue: 9,0:14:00.88,0:14:02.97,Default,,0,0,0,,Ve tek yapmamız gereken ileri geri koşmak.
+Dialogue: 9,0:14:04.84,0:14:09.68,Default,,0,0,0,,Bir dakika, basketbolcuların doğal olarak daha dayanıklı olması gerekmez mi?
+Dialogue: 9,0:14:09.68,0:14:11.64,Default,,0,0,0,,Ayrıca, o daha büyük.
+Dialogue: 9,0:14:11.64,0:14:15.48,Default,,0,0,0,,Ayrıca, Amerika’dayken her gün 10 kilometre koştuğundan bahsetti.
+Dialogue: 9,0:14:15.48,0:14:18.65,Default,,0,0,0,,Bu bildiğin Matsuoka'nın lehine.
+Dialogue: 9,0:14:19.69,0:14:20.82,Default,,0,0,0,,Ne dersin?
+Dialogue: 9,0:14:22.32,0:14:23.49,Default,,0,0,0,,Yapacağım!
+Dialogue: 9,0:14:25.03,0:14:30.29,Default,,0,0,0,,{\i1}Üç saniyelik bir geri sayım yapılacak ve ardından sınava başlanacaktır.
+Dialogue: 9,0:14:31.75,0:14:32.91,Default,,0,0,0,,{\i1}Hazır olun.
+Dialogue: 9,0:14:33.50,0:14:36.83,Default,,0,0,0,,{\i1}3, 2, 1!
+Dialogue: 9,0:14:36.83,0:14:37.70,Default,,0,0,0,,{\i1}Başla!
+Dialogue: 9,0:14:52.18,0:14:55.02,Default,,0,0,0,,Şimdi tekrar okula gidip alıştırma mı yapacağız?
+Dialogue: 9,0:14:55.02,0:14:57.40,Default,,0,0,0,,Antrenman maçında elimden\N geleni yaptığımı düşünüyorum.
+Dialogue: 9,0:14:57.40,0:15:00.15,Default,,0,0,0,,Peki, sorunlarımızı hemen\N çözmeye başlayabiliriz.
+Dialogue: 9,0:15:00.15,0:15:03.32,Default,,0,0,0,,En azından bizim için bir otobüs gönderebilirlerdi.
+Dialogue: 9,0:15:03.32,0:15:05.32,Default,,0,0,0,,Eh, yürüyerek ulaşılabilecek bir mesafede.
+Dialogue: 9,0:15:08.62,0:15:12.16,Default,,0,0,0,,Önce eve uğrayıp\Nyedek bir giysi alacağım.
+Dialogue: 9,0:15:12.16,0:15:13.66,Default,,0,0,0,,Tamam, anladım.
+Dialogue: 9,0:15:23.42,0:15:28.43,Default,,0,0,0,,KIKUCHI DİŞ KLİNİĞİ
+Dialogue: 9,0:15:28.43,0:15:31.68,Default,,0,0,0,,{\i1}Taiki’nin gideceği diş hekimi.
+Dialogue: 9,0:15:31.68,0:15:34.43,Default,,0,0,0,,Kesinlikle gitmemelisin!
+Dialogue: 9,0:15:34.43,0:15:37.10,Default,,0,0,0,,Hallettiğiniz için teşekkürler.
+Dialogue: 9,0:15:37.10,0:15:39.56,Default,,0,0,0,,Yaklaşık 30 dakika sonra geri döneceğim.
+Dialogue: 9,0:15:41.32,0:15:42.90,Default,,0,0,0,,Görüşürüz...
+Dialogue: 9,0:15:49.03,0:15:50.32,Default,,0,0,0,,Bekle, Goto-san.
+Dialogue: 9,0:15:50.32,0:15:53.70,Default,,0,0,0,,Tuvalet kağıdını da alabilir misin?
+Dialogue: 9,0:15:53.70,0:15:54.58,Default,,0,0,0,,Tamam.
+Dialogue: 9,0:15:58.12,0:15:59.12,Default,,0,0,0,,Goto?
+Dialogue: 9,0:16:01.84,0:16:04.13,Default,,0,0,0,,Soyadının Kido olduğunu sanıyordum.
+Dialogue: 9,0:16:05.21,0:16:09.39,Default,,0,0,0,,Ortaokuldan mezun olduğumda \Nannemle babam boşandı.
+Dialogue: 9,0:16:10.51,0:16:12.39,Default,,0,0,0,,Bilmiyordum.
+Dialogue: 9,0:16:13.10,0:16:17.18,Default,,0,0,0,,Önemli bir şey değil. Anlatmaya değer olduğunu düşünmedim.
+Dialogue: 0,0:16:19.06,0:16:23.11,Default,,0,0,0,,{\an8}Bana gerçekten hiçbir şey anlatmıyorsun.
+Dialogue: 9,0:16:33.62,0:16:37.75,Default,,0,0,0,,O bileti o kadar çok mu istiyor?
+Dialogue: 9,0:16:37.75,0:16:39.83,Default,,0,0,0,,Gerçekten o kadar çok koşmaya değer mi?
+Dialogue: 9,0:16:40.54,0:16:43.29,Default,,0,0,0,,Belli ki bu, bundan daha fazlası.
+Dialogue: 9,0:16:43.79,0:16:44.80,Default,,0,0,0,,Ne demek istiyorsun?
+Dialogue: 9,0:16:45.38,0:16:47.88,Default,,0,0,0,,Eminim bacakların\Nşimdi ağırlaşmaya başlamıştır.
+Dialogue: 9,0:16:47.88,0:16:49.80,Default,,0,0,0,,Bunu bütün gün yapabilirim!
+Dialogue: 9,0:16:51.80,0:16:55.72,Default,,0,0,0,,Güzel çünkü bu benim için\Nneredeyse bir ısınma bile sayılmaz.
+Dialogue: 9,0:16:56.31,0:16:58.48,Default,,0,0,0,,{\i1}Kendinden emin görünüyor.
+Dialogue: 9,0:17:00.56,0:17:03.40,Default,,0,0,0,,Hazır bu konuyu konuşurken...
+Dialogue: 9,0:17:03.40,0:17:08.32,Default,,0,0,0,,Peki ya o ezik de Natsu’dan vazgeçse?
+Dialogue: 9,0:17:10.74,0:17:13.03,Default,,0,0,0,,Buna asla izin vermem.
+Dialogue: 9,0:17:14.53,0:17:17.33,Default,,0,0,0,,Duygularım bu kadar aptalca\N bir şey yüzünden değişmeyecek!
+Dialogue: 9,0:17:18.00,0:17:19.33,Default,,0,0,0,,Anlıyorum.
+Dialogue: 9,0:17:20.04,0:17:21.04,Default,,0,0,0,,Ama...
+Dialogue: 9,0:17:24.33,0:17:30.05,Default,,0,0,0,,İzin vermesen bile, burada bana yenilince epey rezil olacaksın.
+Dialogue: 9,0:17:37.22,0:17:39.35,Default,,0,0,0,,Bana hiçbir şey anlatmıyorsun.
+Dialogue: 9,0:17:46.52,0:17:48.28,Default,,0,0,0,,Burada mı çalışıyorsun?
+Dialogue: 9,0:17:50.49,0:17:51.40,Default,,0,0,0,,Evet.
+Dialogue: 9,0:17:52.70,0:17:54.99,Default,,0,0,0,,{\i1}O hâlde Taiki-kun bunu zaten biliyor olmalıydı.
+Dialogue: 9,0:17:58.99,0:18:03.17,Default,,0,0,0,,Başka bir liseye geçmenin sebebi ailen miydi?
+Dialogue: 9,0:18:03.96,0:18:05.63,Default,,0,0,0,,Bunun konuyla hiçbir ilgisi yok.
+Dialogue: 9,0:18:06.38,0:18:07.67,Default,,0,0,0,,Anlıyorum.
+Dialogue: 9,0:18:08.46,0:18:12.22,Default,,0,0,0,,Keşke bana bunları söyleseydin.
+Dialogue: 9,0:18:13.38,0:18:15.30,Default,,0,0,0,,Ama sırf senin arkadaşın olduğum için,
+Dialogue: 9,0:18:15.30,0:18:17.51,Default,,0,0,0,,her şeyi bana anlatmak zorunda değilsin.
+Dialogue: 9,0:18:18.06,0:18:21.18,Default,,0,0,0,,Nasıl hissettiğini biliyormuş \Ngibi davranmak istemiyorum.
+Dialogue: 9,0:18:22.23,0:18:24.19,Default,,0,0,0,,Ne de olsa bu senin hayatın.
+Dialogue: 0,0:18:24.98,0:18:26.69,Default,,0,0,0,,{\an8}Başka seçeneğin yoktu, değil mi?
+Dialogue: 9,0:18:34.03,0:18:36.37,Default,,0,0,0,,Alışverişinizi böldüğüm için özür dilerim.
+Dialogue: 9,0:18:39.54,0:18:40.83,Default,,0,0,0,,Bunu sana nasıl anlatabilirim ki?!
+Dialogue: 9,0:18:44.29,0:18:45.92,Default,,0,0,0,,{\i1}Asla savunmasız kalamam!
+Dialogue: 9,0:18:46.58,0:18:47.92,Default,,0,0,0,,{\i1}Senin önünde!
+Dialogue: 9,0:18:52.26,0:18:54.93,Default,,0,0,0,,Çünkü ben senin rol modelinim!
+Dialogue: 0,0:19:00.01,0:19:05.02,Default,,0,0,0,,{\an8}Arkadaş olarak da birlikte\N güzel zamanlar geçirdik.
+Dialogue: 9,0:19:05.02,0:19:10.52,Default,,0,0,0,,{\i1}Basketbolda başarılı biri olduğum için bana hayranlık duyuyordun.
+Dialogue: 9,0:19:11.02,0:19:12.94,Default,,0,0,0,,{\i1}İlk başta bu beni mutlu etmişti.
+Dialogue: 9,0:19:14.03,0:19:19.20,Default,,0,0,0,,Ancak zamanla basketbola olan tutkum azaldı.
+Dialogue: 9,0:19:21.58,0:19:22.95,Default,,0,0,0,,Yalan söylüyorsun.
+Dialogue: 9,0:19:22.95,0:19:24.54,Default,,0,0,0,,Yalan söylemiyorum.
+Dialogue: 9,0:19:28.88,0:19:31.96,Default,,0,0,0,,Dinle, Yumeka, baban ve ben...
+Dialogue: 9,0:19:33.13,0:19:36.47,Default,,0,0,0,,Sandığın kadar havalı biri değilim.
+Dialogue: 9,0:19:37.18,0:19:39.89,Default,,0,0,0,,{\i1}Sürekli antrenmanları atlamak istiyordum.
+Dialogue: 9,0:19:40.51,0:19:45.89,Default,,0,0,0,,{\i1}Yeteneğin her şey olmadığını fark edince basketboldan uzaklaşmak istedim.
+Dialogue: 9,0:19:47.31,0:19:51.52,Default,,0,0,0,,Yani, sana hayran olan bendim.
+Dialogue: 9,0:19:53.69,0:19:55.90,Default,,0,0,0,,Antrenmanı bir gün bile aksatmamıştın.
+Dialogue: 9,0:19:56.53,0:20:00.20,Default,,0,0,0,,Sen durmadan kendini geliştiriyordun. Ben ise sana bir türlü yetişemiyordum.
+Dialogue: 9,0:20:00.70,0:20:03.66,Default,,0,0,0,,Senin gibi olamadığım için \Nkendimden utanıyordum.
+Dialogue: 9,0:20:04.24,0:20:06.29,Default,,0,0,0,,{\i1}Zamanla sana kin beslemeye başladım.
+Dialogue: 9,0:20:08.08,0:20:10.17,Default,,0,0,0,,Bunları sana nasıl anlatabilirdim ki?
+Dialogue: 9,0:20:13.84,0:20:16.30,Default,,0,0,0,,Onun azmine...
+Dialogue: 9,0:20:16.80,0:20:18.47,Default,,0,0,0,,...hayranım.
+Dialogue: 9,0:20:19.22,0:20:22.68,Default,,0,0,0,,Bunu yapabilmen senin yeteneğin.
+Dialogue: 9,0:20:25.72,0:20:28.44,Default,,0,0,0,,Ortaokuldaki son maçımızın ertesi günü...
+Dialogue: 9,0:20:29.14,0:20:31.94,Default,,0,0,0,,{\i1}...tek başına antrenman yaptığına...
+Dialogue: 9,0:20:37.15,0:20:39.53,Default,,0,0,0,,{\i1}...tanık oldum.
+Dialogue: 9,0:20:41.45,0:20:44.70,Default,,0,0,0,,O sıralar moralim bozuktu...
+Dialogue: 9,0:20:44.70,0:20:48.08,Default,,0,0,0,,...ve her şey bittiğinde bir\N rahatlama bile hissetmiştim.
+Dialogue: 9,0:20:50.96,0:20:54.17,Default,,0,0,0,,Gerçekten çok hayal kırıklığına uğramış olmalısın.
+Dialogue: 9,0:20:54.17,0:20:58.34,Default,,0,0,0,,Bu kadar hayal kırıklığına uğradığına göre gerçekten çok çalışmış olmalısın...
+Dialogue: 9,0:21:02.18,0:21:04.89,Default,,0,0,0,,İşte bu yüzden o kadar şaşırdım.
+Dialogue: 9,0:21:05.56,0:21:08.10,Default,,0,0,0,,{\i1}Senin bir erkekle takıldığını görmek.
+Dialogue: 9,0:21:08.89,0:21:13.69,Default,,0,0,0,,{\i1}Kendimi aşağılık hissetmeme neden olan Natsu, böyle biri değildi.
+Dialogue: 9,0:21:13.69,0:21:17.78,Default,,0,0,0,,Basketbola tutkuyla bağlı olmak,\Nbaşka hiçbir şey düşünmemek...
+Dialogue: 9,0:21:17.78,0:21:20.07,Default,,0,0,0,,{\i1}Ve sessizce çabalamak!
+Dialogue: 9,0:21:20.07,0:21:21.82,Default,,0,0,0,,İşte sen busun!
+Dialogue: 0,0:21:21.82,0:21:23.12,Default,,0,0,0,,{\an8}Yanılıyorsun!
+Dialogue: 9,0:21:25.20,0:21:26.87,Default,,0,0,0,,Konuyla ilgisiz değil.
+Dialogue: 9,0:21:28.45,0:21:31.37,Default,,0,0,0,,{\i1}Benim için ikisi de aynı şey.
+Dialogue: 9,0:21:34.71,0:21:36.38,Default,,0,0,0,,Sen gittikten sonra,
+Dialogue: 9,0:21:37.09,0:21:42.38,Default,,0,0,0,,{\i1}peşinde koştuğum hedefi ve en çok güvendiğim kişiyi kaybettim.
+Dialogue: 9,0:21:44.05,0:21:45.55,Default,,0,0,0,,O kadar yalnızdım ki.
+Dialogue: 9,0:21:48.93,0:21:51.89,Default,,0,0,0,,{\i1}Ulusal şampiyonluğu kazanmak çok uzak bir hedef gibi geliyordu.
+Dialogue: 9,0:21:52.94,0:21:58.23,Default,,0,0,0,,{\i1}Tam da böyle düzenli antrenmanların işe yarayıp yaramadığını sorgulamaya başlamıştım ki...
+Dialogue: 9,0:21:58.23,0:21:59.90,Default,,0,0,0,,{\i1}İşe yaradıklarını gördüm.
+Dialogue: 9,0:22:04.99,0:22:06.91,Default,,0,0,0,,{\i1}Tam umudumu kaybetmek üzereyken...
+Dialogue: 9,0:22:09.16,0:22:10.91,Default,,0,0,0,,{\i1}Güç kazandım.
+Dialogue: 9,0:22:15.63,0:22:17.92,Default,,0,0,0,,{\i1}Hayatımda böyle birinin olması...
+Dialogue: 9,0:22:18.50,0:22:20.46,Default,,0,0,0,,...bana devam etme gücü verdi!
