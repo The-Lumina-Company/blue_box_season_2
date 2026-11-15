@@ -1,0 +1,230 @@
+[Script Info]
+Title: The-Lumina-Company - Blue Box Season 2
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Lumina,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.26,Default,,0,0,0,,{\an4\fnLT Comical\fscx95\fscy95\bord2.2\shad2.2\blur0.6\3c&H000000&\4c&H000000&\pos(40,520)}{\c&HFF901E&}Çeviri: {\c&HFFFFFF&}Keyskop, ka4qnn{\fscy34.5}\N{\fscy95\c&HFF901E&}Redaksiyon: {\c&HFFFFFF&}ka4qnn{\fscy34.5}\N{\fscy95\c&HFF901E&}Encode: {\c&HFFFFFF&}ka4qnn{\fscy34.5}\N{\fscy95\c&HFF901E&}Upload: {\c&HFFFFFF&}ka4qnn{\fscy34.5}\N{\fscx76.5\fscy76.5\c&HAAAAAA&\b0}discord.gg/luminaceviri{\b1}
+Dialogue: 0,0:00:27.99,0:00:29.78,Default,,0,0,0,,Rahatsız ettiğim için özür dilerim.
+Dialogue: 0,0:00:33.37,0:00:36.29,Default,,0,0,0,,{\i1}Natsu'nun yanında kalsaydım...{\i0}
+Dialogue: 0,0:00:36.29,0:00:40.75,Default,,0,0,0,,{\i1}...basketbola yeniden\Nbağlanır mıydım acaba?{\i0}
+Dialogue: 0,0:00:45.50,0:00:46.46,Default,,0,0,0,,Ne?
+Dialogue: 0,0:00:46.46,0:00:50.72,Default,,0,0,0,,Bu, Chinatsu Senpai'nin\NKış Kupası maçının bileti.
+Dialogue: 0,0:00:52.01,0:00:53.93,Default,,0,0,0,,Bunu size veriyorum.
+Dialogue: 0,0:00:59.14,0:01:00.73,Default,,0,0,0,,Ben olamam.
+Dialogue: 0,0:01:01.39,0:01:03.35,Default,,0,0,0,,Basketbol söz konusuysa siz olmalısınız.
+Dialogue: 0,0:01:07.07,0:01:10.40,Default,,0,0,0,,Bence hâlâ basketbolu\Nsevdiğinizi fark edeceksiniz.
+Dialogue: 0,0:01:50.65,0:01:52.90,Default,,0,0,0,,Eimei! Eimei!
+Dialogue: 0,0:02:04.58,0:02:05.54,Default,,0,0,0,,{\i1}Çok iyi.{\i0}
+Dialogue: 0,0:02:06.67,0:02:09.42,Default,,0,0,0,,{\i1}Natsu'nun sepete daldığını görmüş.{\i0}
+Dialogue: 0,0:02:21.14,0:02:25.35,Default,,0,0,0,,{\i1}Sıkı savunmaları sayesinde\Nsaldırgan oynayabiliyorlar.{\i0}
+Dialogue: 0,0:02:25.35,0:02:28.77,Default,,0,0,0,,Eimei! Eimei! Eimei!
+Dialogue: 0,0:02:39.28,0:02:43.54,Default,,0,0,0,,{\i1}Zaman hep bu kadar hızlı mı akardı?{\i0}
+Dialogue: 0,0:02:44.66,0:02:49.17,Default,,0,0,0,,{\i1}Maçta her saniye çok daha\Nyoğun hissettirirdi, hatırlıyorum.{\i0}
+Dialogue: 0,0:02:49.75,0:02:52.51,Default,,0,0,0,,{\i1}Maç bitince de zaman\Nuçup gitmiş gibi gelirdi.{\i0}
+Dialogue: 0,0:03:18.20,0:03:19.78,Default,,0,0,0,,{\i1}İki yıl olmuş.{\i0}
+Dialogue: 0,0:03:22.12,0:03:25.37,Default,,0,0,0,,{\i1}Sadece iki yıl...{\i0}
+Dialogue: 0,0:03:29.46,0:03:33.63,Default,,0,0,0,,BLUE BOX 2. SEZON
+Dialogue: 0,0:04:56.63,0:04:59.30,Default,,0,0,0,,BÖLÜM 30\NGERİ DÖNDÜ
+Dialogue: 0,0:04:59.30,0:05:00.97,Default,,0,0,0,,EIMEI ÖZEL LİSESİ
+Dialogue: 0,0:05:08.02,0:05:11.23,Default,,0,0,0,,{\i1}Umarım Yumeka gitmiştir.{\i0}
+Dialogue: 0,0:05:17.69,0:05:21.65,Default,,0,0,0,,{\i1}Chinatsu Senpai'ye söylemeli miydim?{\i0}
+Dialogue: 0,0:05:21.65,0:05:24.28,Default,,0,0,0,,{\i1}Ama ya gitmezse...{\i0}
+Dialogue: 0,0:05:36.59,0:05:38.76,Default,,0,0,0,,{\i1}Başı belada bir ren geyiği mi?{\i0}
+Dialogue: 0,0:05:39.84,0:05:43.34,Default,,0,0,0,,Yardıma ihtiyacın var mı?
+Dialogue: 0,0:05:54.81,0:05:56.52,Default,,0,0,0,,Bu kıyafet de ne böyle?
+Dialogue: 0,0:05:57.11,0:06:00.07,Default,,0,0,0,,Noel havasına girmek istedik.
+Dialogue: 0,0:06:00.07,0:06:02.94,Default,,0,0,0,,Bütün jimnastik takımı kostüm giyiyor.
+Dialogue: 0,0:06:03.28,0:06:05.20,Default,,0,0,0,,İçinde hareket etmek zor değil mi?
+Dialogue: 0,0:06:05.20,0:06:06.53,Default,,0,0,0,,Bayağı sıcak tutuyor.
+Dialogue: 0,0:06:07.62,0:06:10.04,Default,,0,0,0,,Noel havasını kesinlikle veriyor.
+Dialogue: 0,0:06:11.12,0:06:14.04,Default,,0,0,0,,Bu tür günlerin tadını çıkarmak önemli.
+Dialogue: 0,0:06:15.12,0:06:18.67,Default,,0,0,0,,{\i1}Karaokede arka arkaya Noel\Nşarkıları söyleyeceğiz,{\i0}
+Dialogue: 0,0:06:18.67,0:06:22.13,Default,,0,0,0,,{\i1}öncesinde de fotoğraf\Nkabininde poz vereceğiz.{\i0}
+Dialogue: 0,0:06:22.13,0:06:26.30,Default,,0,0,0,,{\i1}Bugüne özel, kendime pasta yeme\Nizni bile verdim.{\i0}
+Dialogue: 0,0:06:27.85,0:06:30.81,Default,,0,0,0,,Eğlenmek için sevgili gerekmiyor, bilesin.
+Dialogue: 0,0:06:33.31,0:06:35.31,Default,,0,0,0,,{\an8}Buna ne diyeceğimi bilemedim.
+Dialogue: 0,0:06:38.06,0:06:40.44,Default,,0,0,0,,Pişmanlığınla yaşa gitsin.
+Dialogue: 0,0:06:42.78,0:06:44.15,Default,,0,0,0,,Burası yeterli.
+Dialogue: 0,0:06:48.62,0:06:50.08,Default,,0,0,0,,Sağ ol.
+Dialogue: 0,0:06:50.95,0:06:51.91,Default,,0,0,0,,Hina.
+Dialogue: 0,0:07:03.51,0:07:06.30,Default,,0,0,0,,Moriya için Mariah söylemeyi unutma.
+Dialogue: 0,0:07:06.30,0:07:08.64,Default,,0,0,0,,Tabii ki, listemde var.
+Dialogue: 0,0:07:08.64,0:07:11.35,Default,,0,0,0,,Sesim çıkmayana kadar söyleyeceğim!
+Dialogue: 0,0:07:11.35,0:07:13.72,Default,,0,0,0,,Boğaz pastili almayı unutma!
+Dialogue: 0,0:07:37.58,0:07:40.25,Default,,0,0,0,,Bugün Noel arifesi, ha?
+Dialogue: 0,0:07:41.09,0:07:43.09,Default,,0,0,0,,Noel'de ne yapacaksın diye sorulunca...
+Dialogue: 0,0:07:43.09,0:07:46.92,Default,,0,0,0,,...sanki neyin önemli olduğunu\Nsoruyorlarmış gibi geliyor, değil mi?
+Dialogue: 0,0:07:46.92,0:07:47.88,Default,,0,0,0,,Pek sayılmaz.
+Dialogue: 0,0:07:48.55,0:07:53.47,Default,,0,0,0,,{\an8}İnsanlar genelde sevdikleriyle,\Narkadaşları ve ailesiyle geçirir.
+Dialogue: 0,0:07:53.47,0:07:57.48,Default,,0,0,0,,Yani elimde sadece\Nbadminton takımı var!
+Dialogue: 0,0:07:57.48,0:07:59.69,Default,,0,0,0,,Badminton benim için\Nher şeyden önemli!
+Dialogue: 0,0:07:59.69,0:08:01.10,Default,,0,0,0,,Ne var bunda?
+Dialogue: 0,0:08:01.11,0:08:03.61,Default,,0,0,0,,Ben de randevuya gitmek isterdim!
+Dialogue: 0,0:08:03.61,0:08:04.73,Default,,0,0,0,,Gerçek ortaya çıktı.
+Dialogue: 0,0:08:04.73,0:08:07.44,Default,,0,0,0,,Sevgilisi olanlardan nefret ediyorum!
+Dialogue: 0,0:08:07.45,0:08:09.57,Default,,0,0,0,,İlişkiler de hiç kolay değil.
+Dialogue: 0,0:08:11.24,0:08:14.37,Default,,0,0,0,,Ona ne hediye alacağımı hiç bilemiyorum,
+Dialogue: 0,0:08:14.37,0:08:17.91,Default,,0,0,0,,bir de Noel'de bir yere gitmek için\Nrezervasyon yaptırmak gerekiyor.
+Dialogue: 0,0:08:17.91,0:08:20.83,Default,,0,0,0,,Ben de tam bunu istiyorum!
+Dialogue: 0,0:08:21.79,0:08:23.79,Default,,0,0,0,,Yazık oldu, Taiki.
+Dialogue: 0,0:08:23.79,0:08:27.34,Default,,0,0,0,,Eminim onunla vakit geçirmeyi umuyordun.
+Dialogue: 0,0:08:29.26,0:08:33.85,Default,,0,0,0,,Sevgilisi falan değilim,\Nyani Noel planlarımda yoktu.
+Dialogue: 0,0:08:34.64,0:08:35.85,Default,,0,0,0,,Zaten...
+Dialogue: 0,0:08:37.02,0:08:40.19,Default,,0,0,0,,{\an8\i1}Chinatsu Senpai'nin yapacak çok\Ndaha önemli bir işi var.{\i0}
+Dialogue: 0,0:08:43.90,0:08:46.36,Default,,0,0,0,,Noel en önemli şeye vakit ayırma günüyse...
+Dialogue: 0,0:08:46.36,0:08:49.24,Default,,0,0,0,,...bunu sevdiğin işi yaparak\Ngeçirmekten daha güzeli mi olur?
+Dialogue: 0,0:08:52.45,0:08:53.32,Default,,0,0,0,,{\i1}Her neyse,{\i0}
+Dialogue: 0,0:08:54.78,0:08:57.83,Default,,0,0,0,,{\i1}umarım güzel bir Noel arifesi olur.{\i0}
+Dialogue: 0,0:08:59.29,0:09:01.17,Default,,0,0,0,,{\i1}Yumeka için de.{\i0}
+Dialogue: 0,0:09:07.17,0:09:08.67,Default,,0,0,0,,EIMEI 59 - KIRIGASAKI 55
+Dialogue: 0,0:09:08.67,0:09:09.59,Default,,0,0,0,,Eimei!
+Dialogue: 0,0:09:13.26,0:09:14.18,Default,,0,0,0,,Ramak kaldı!
+Dialogue: 0,0:09:24.27,0:09:26.02,Default,,0,0,0,,Evet!
+Dialogue: 0,0:09:26.02,0:09:27.44,Default,,0,0,0,,Yaparsın!
+Dialogue: 0,0:10:15.62,0:10:17.03,Default,,0,0,0,,{\i1}Daha bitmedi!{\i0}
+Dialogue: 0,0:10:18.03,0:10:21.95,Default,,0,0,0,,Eimei! Eimei! Eimei!
+Dialogue: 0,0:10:40.64,0:10:42.22,Default,,0,0,0,,Hadi Natsu!
+Dialogue: 0,0:11:14.17,0:11:15.47,Default,,0,0,0,,Sayı!
+Dialogue: 0,0:11:20.10,0:11:22.52,Default,,0,0,0,,EIMEI ÖZEL LİSESİ\NKIRIGASAKI AKADEMİSİ
+Dialogue: 0,0:11:39.12,0:11:43.29,Default,,0,0,0,,Yumeka, burada ne yapıyorsun?
+Dialogue: 0,0:11:44.45,0:11:47.54,Default,,0,0,0,,Şu badmintoncu birinci sınıf\Nbana bilet verdi.
+Dialogue: 0,0:11:49.38,0:11:51.75,Default,,0,0,0,,İlk turu geçtiğin için tebrikler.
+Dialogue: 0,0:11:51.75,0:11:53.80,Default,,0,0,0,,Güzel maçtı.
+Dialogue: 0,0:11:57.68,0:11:59.01,Default,,0,0,0,,Önceki için kusura bakma.
+Dialogue: 0,0:11:59.01,0:12:02.56,Default,,0,0,0,,Sanki tembellik ediyormuşsun\Ngibi konuştuğum için.
+Dialogue: 0,0:12:04.01,0:12:06.93,Default,,0,0,0,,Meğer dar görüşlü davranmışım.
+Dialogue: 0,0:12:08.56,0:12:11.15,Default,,0,0,0,,Ben de özür dilerim.
+Dialogue: 0,0:12:12.27,0:12:13.98,Default,,0,0,0,,Benim de senden farkım yoktu,
+Dialogue: 0,0:12:13.98,0:12:18.07,Default,,0,0,0,,çünkü içimden geçeni ben de\Nsöylememiştim.
+Dialogue: 0,0:12:21.16,0:12:22.16,Default,,0,0,0,,Ben...
+Dialogue: 0,0:12:22.78,0:12:26.58,Default,,0,0,0,,seninle daha çok basketbol\Noynamak istiyordum.
+Dialogue: 0,0:12:28.41,0:12:31.71,Default,,0,0,0,,Basketbolu bırakmanı istemedim.
+Dialogue: 0,0:12:35.38,0:12:38.63,Default,,0,0,0,,Bırakmadan önce benimle\Nkonuşsaydın keşke.
+Dialogue: 0,0:12:39.30,0:12:42.14,Default,,0,0,0,,O zaman ben...
+Dialogue: 0,0:12:43.43,0:12:46.35,Default,,0,0,0,,Neden ağlıyorsun?
+Dialogue: 0,0:12:47.10,0:12:48.31,Default,,0,0,0,,Sen de ağlıyorsun.
+Dialogue: 0,0:12:48.31,0:12:49.73,Default,,0,0,0,,Ağlamıyorum...
+Dialogue: 0,0:12:52.02,0:12:56.03,Default,,0,0,0,,Ben de seninle daha çok\Nbasketbol oynamak istiyordum.
+Dialogue: 0,0:12:56.69,0:12:59.61,Default,,0,0,0,,O zaman neden bıraktın?
+Dialogue: 0,0:13:00.20,0:13:01.49,Default,,0,0,0,,Özür dilerim.
+Dialogue: 0,0:13:01.49,0:13:03.20,Default,,0,0,0,,Seni özledim.
+Dialogue: 0,0:13:04.24,0:13:06.62,Default,,0,0,0,,Evet, özür dilerim.
+Dialogue: 0,0:13:07.20,0:13:08.12,Default,,0,0,0,,Ne?
+Dialogue: 0,0:13:08.75,0:13:10.96,Default,,0,0,0,,İkiniz neden ağlıyorsunuz?
+Dialogue: 0,0:13:11.96,0:13:13.54,Default,,0,0,0,,Yumeka'nın suçu.
+Dialogue: 0,0:13:13.54,0:13:14.71,Default,,0,0,0,,Natsu'nun suçu.
+Dialogue: 0,0:13:14.71,0:13:18.34,Default,,0,0,0,,Siz nesiniz, küçük çocuklar mı?
+Dialogue: 0,0:13:29.31,0:13:31.31,Default,,0,0,0,,Böyle!
+Dialogue: 0,0:13:32.39,0:13:33.23,Default,,0,0,0,,Anladın mı?
+Dialogue: 0,0:13:45.03,0:13:46.99,Default,,0,0,0,,{\an8\i1}Sevgiden daha güçlü bir şey yoktur.{\i0}
+Dialogue: 0,0:13:47.91,0:13:51.33,Default,,0,0,0,,{\i1}Mesele sadece sevdiğiniz şeyde\Niyi olmanız değil.{\i0}
+Dialogue: 0,0:13:51.33,0:13:56.71,Default,,0,0,0,,{\i1}Sizin için önemli bir şeye sahip olmak\Nsize güç verir.{\i0}
+Dialogue: 0,0:13:56.71,0:13:58.30,Default,,0,0,0,,{\i1}Kendinize verdiğiniz en büyük onay.{\i0}
+Dialogue: 0,0:13:59.63,0:14:00.59,Default,,0,0,0,,Natsu.
+Dialogue: 0,0:14:03.30,0:14:05.51,Default,,0,0,0,,Hadi tekrar birlikte basketbol oynayalım.
+Dialogue: 0,0:14:16.23,0:14:17.31,Default,,0,0,0,,Tamam!
+Dialogue: 0,0:14:25.41,0:14:26.53,Default,,0,0,0,,{\i1}Baba.{\i0}
+Dialogue: 0,0:14:27.53,0:14:28.78,Default,,0,0,0,,{\i1}Tahmin et ne oldu.{\i0}
+Dialogue: 0,0:14:29.83,0:14:31.83,Default,,0,0,0,,{\i1}Gücüm geri geldi.{\i0}
+Dialogue: 0,0:14:46.34,0:14:47.26,Default,,0,0,0,,Tamamdır!
+Dialogue: 0,0:14:47.26,0:14:51.68,Default,,0,0,0,,Noel arifesi geldi!
+Dialogue: 0,0:14:52.68,0:14:56.73,Default,,0,0,0,,İsa'nın doğum günü!\NYani hayatı kutlama günü.
+Dialogue: 0,0:14:56.73,0:14:58.94,Default,,0,0,0,,Bu da bugün spor yapmamız için bir sebep!
+Dialogue: 0,0:14:58.94,0:15:00.77,Default,,0,0,0,,Evet!
+Dialogue: 0,0:15:00.77,0:15:03.94,Default,,0,0,0,,Öyleyse tatlı istemiyor musun?
+Dialogue: 0,0:15:05.40,0:15:08.45,Default,,0,0,0,,Tüh.\NNoel Baba Ayame size kurabiye getirmişti.
+Dialogue: 0,0:15:10.78,0:15:12.04,Default,,0,0,0,,Efendi Noel Baba!
+Dialogue: 0,0:15:12.04,0:15:13.54,Default,,0,0,0,,Lütfen alabilir miyiz?
+Dialogue: 0,0:15:13.54,0:15:14.54,Default,,0,0,0,,Peki.
+Dialogue: 0,0:15:14.54,0:15:15.75,Default,,0,0,0,,Al bakalım.
+Dialogue: 0,0:15:15.75,0:15:18.63,Default,,0,0,0,,Çok mutluyum.
+Dialogue: 0,0:15:20.88,0:15:22.38,Default,,0,0,0,,Al bakalım.
+Dialogue: 0,0:15:23.17,0:15:24.67,Default,,0,0,0,,Bu fazla değil mi?
+Dialogue: 0,0:15:24.67,0:15:29.09,Default,,0,0,0,,Elimde fazladan malzeme kaldığı için\Nkardeşlerin için de biraz hazırladım.
+Dialogue: 0,0:15:29.09,0:15:31.39,Default,,0,0,0,,Bu zahmete girmenize gerek yoktu.
+Dialogue: 0,0:15:32.35,0:15:34.39,Default,,0,0,0,,Hiç zahmet olmadı.
+Dialogue: 0,0:15:34.39,0:15:36.60,Default,,0,0,0,,Sadece teşekkür et, olur mu?
+Dialogue: 0,0:15:36.60,0:15:39.02,Default,,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:15:40.19,0:15:41.44,Default,,0,0,0,,Harika!
+Dialogue: 0,0:15:42.11,0:15:44.61,Default,,0,0,0,,Koç, ben de bir tane alabilir miyim?
+Dialogue: 0,0:15:44.61,0:15:45.53,Default,,0,0,0,,Tabii.
+Dialogue: 0,0:15:55.79,0:15:57.66,Default,,0,0,0,,Kyo, bugün iyi iş çıkardın!
+Dialogue: 0,0:15:57.67,0:15:58.92,Default,,0,0,0,,Sen de.
+Dialogue: 0,0:16:13.89,0:16:15.77,Default,,0,0,0,,Görüşürüz.
+Dialogue: 0,0:16:15.77,0:16:19.64,Default,,0,0,0,,Ah, Kyo. Mutlu Noeller.
+Dialogue: 0,0:16:19.65,0:16:20.81,Default,,0,0,0,,Sağ olun, iyi günler.
+Dialogue: 0,0:16:22.56,0:16:24.32,Default,,0,0,0,,Hinacchi, Niina!
+Dialogue: 0,0:16:24.32,0:16:26.78,Default,,0,0,0,,Son sınıflardan birinin elinde\Nkaraoke kuponu var!
+Dialogue: 0,0:16:26.78,0:16:27.69,Default,,0,0,0,,Gerçekten mi?
+Dialogue: 0,0:16:27.70,0:16:28.65,Default,,0,0,0,,Harika!
+Dialogue: 0,0:16:28.65,0:16:30.03,Default,,0,0,0,,Evet!
+Dialogue: 0,0:16:30.03,0:16:32.24,Default,,0,0,0,,- Gidelim!\N- Bol bol şarkı söyleyeceğim!
+Dialogue: 0,0:16:32.24,0:16:33.95,Default,,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:16:35.24,0:16:38.04,Default,,0,0,0,,{\i1}Maç şimdiye kadar bitmiş olmalı, değil mi?{\i0}
+Dialogue: 0,0:16:38.04,0:16:39.50,Default,,0,0,0,,{\i1}Keşke en azından kazanıp kazanmadığını bilseydim.{\i0}
+Dialogue: 0,0:16:39.50,0:16:41.96,Default,,0,0,0,,Hadi, gidip spor yapalım!\N
+Dialogue: 0,0:16:42.54,0:16:45.09,Default,,0,0,0,,KFC yerine tavuk göğsü yiyoruz.
+Dialogue: 0,0:16:45.09,0:16:48.05,Default,,0,0,0,,Ve Noel keki yerine\Nprotein içecekleri!
+Dialogue: 0,0:16:48.05,0:16:50.09,Default,,0,0,0,,Noel arifesinin tadını çıkarmak istemiştim.
+Dialogue: 0,0:16:50.09,0:16:53.10,Default,,0,0,0,,Protein bizim tek gerçek \Naşkımız, hatırladın mı?
+Dialogue: 0,0:16:57.18,0:16:59.52,Default,,0,0,0,,Tamam, gidelim o zaman!
+Dialogue: 0,0:16:59.52,0:17:01.10,Default,,0,0,0,,İşte bu!\N
+Dialogue: 0,0:17:01.69,0:17:03.86,Default,,0,0,0,,{\i1}Onlara ne olduğunu bilmek istiyorum,{\i0}
+Dialogue: 0,0:17:03.86,0:17:06.11,Default,,0,0,0,,{\i1}Ama kimseyi rahatsız etmek istemiyorum.{\i0}
+Dialogue: 0,0:17:07.40,0:17:09.90,Default,,0,0,0,,{\i1}Üstelik Noel arifesi\Nyılda sadece bir kez gelir.{\i0}
+Dialogue: 0,0:17:15.74,0:17:16.66,Default,,0,0,0,,DİZ BOYU ÇORAPLAR DEĞİL...
+Dialogue: 0,0:17:32.18,0:17:33.64,Default,,0,0,0,,{\i1}Ben de bundan keyif almaya çalışmalıyım!{\i0}
+Dialogue: 0,0:17:41.60,0:17:44.15,Default,,0,0,0,,Bilet için ona benim adıma teşekkür et.
+Dialogue: 0,0:17:44.15,0:17:46.77,Default,,0,0,0,,Galiba bunun için epey zahmete girmiş.
+Dialogue: 0,0:17:48.23,0:17:49.78,Default,,0,0,0,,Chinatsu.
+Dialogue: 0,0:17:50.82,0:17:52.99,Default,,0,0,0,,Hepimiz birazdan akşam yemeğine gideceğiz.
+Dialogue: 0,0:17:52.99,0:17:54.32,Default,,0,0,0,,Tamam.
+Dialogue: 0,0:17:55.49,0:17:57.08,Default,,0,0,0,,Üzgünüm, Nagisa.
+Dialogue: 0,0:17:58.83,0:18:01.00,Default,,0,0,0,,Az önce aklıma geldi de,\Ngidip bir şey yapmam gerekiyor.
+Dialogue: 0,0:18:01.00,0:18:03.42,Default,,0,0,0,,Tamam, anladım.
+Dialogue: 0,0:18:11.34,0:18:13.43,Default,,0,0,0,,Ben geldim.
+Dialogue: 0,0:18:15.39,0:18:17.43,Default,,0,0,0,,{\i1}Henüz evde değil.{\i0}
+Dialogue: 0,0:18:21.73,0:18:23.02,Default,,0,0,0,,Hoş geldin!
+Dialogue: 0,0:18:23.02,0:18:24.44,Default,,0,0,0,,Öncelikle, şunu kutlarım...
+Dialogue: 0,0:18:25.65,0:18:26.69,Default,,0,0,0,,Ha?
+Dialogue: 0,0:18:27.48,0:18:29.78,Default,,0,0,0,,{\i1}Belki de markete gitmiştir.{\i0}
+Dialogue: 0,0:18:41.91,0:18:44.08,Default,,0,0,0,,OYASU TAPINAĞI\N
+Dialogue: 0,0:18:53.67,0:18:55.47,Default,,0,0,0,,ELEVEN SEVEN\NATM - ALKOLLÜ İÇECEKLER - TÜTÜN ÜRÜNLERİ
+Dialogue: 0,0:19:23.83,0:19:26.92,Default,,0,0,0,,\NEIMEI ÖZEL LİSESİ
+Dialogue: 0,0:20:01.53,0:20:05.54,Default,,0,0,0,,{\i1}\NÇanlar çalsın, çanlar çalsın\NYol boyunca çıngırdat{\i0}
+Dialogue: 0,0:20:05.54,0:20:07.54,Default,,0,0,0,,{\i1}Ah, sürmek ne kadar eğlenceli{\i0}
+Dialogue: 0,0:20:07.54,0:20:09.54,Default,,0,0,0,,{\i1}Üstü açık tek atlı bir kar kızağında{\i0}
+Dialogue: 0,0:20:09.54,0:20:13.38,Default,,0,0,0,,{\i1}Çanlar çalsın, çanlar çalsın\NYol boyunca çıngırdat{\i0}
+Dialogue: 0,0:20:13.38,0:20:17.55,Default,,0,0,0,,{\i1}Ah, sürmek ne kadar eğlenceli\NÜstü açık tek atlı bir kar kızağında{\i0}
+Dialogue: 0,0:20:17.55,0:20:19.47,Default,,0,0,0,,Yaşasın!
+Dialogue: 0,0:20:20.97,0:20:23.18,Default,,0,0,0,,Hey, Kano gelmiş.
+Dialogue: 0,0:20:23.18,0:20:24.72,Default,,0,0,0,,Bugün maçınız yok muydu?
+Dialogue: 0,0:20:24.72,0:20:27.98,Default,,0,0,0,,Unuttuğum bir şeyi almaya geldim.
+Dialogue: 0,0:20:27.98,0:20:31.23,Default,,0,0,0,,Neden Noel partimize katılmıyorsun?
+Dialogue: 0,0:20:31.23,0:20:34.48,Default,,0,0,0,,Okulun rock grubu\Nbir Noel konseri düzenliyor.
+Dialogue: 0,0:20:34.48,0:20:38.78,Default,,0,0,0,,Nishida, partiye gelebilmek için tüm\Ntemizliği alt sınıftan birine yaptırdı.
+Dialogue: 0,0:20:38.78,0:20:40.11,Default,,0,0,0,,Taiki için sorun yokmuş!
+Dialogue: 0,0:20:40.11,0:20:44.49,Default,,0,0,0,,Bu arada, Taiki'nin arkadaşı\Nmaçınıza geldi mi?
+Dialogue: 0,0:20:44.49,0:20:45.58,Default,,0,0,0,,Ne?
+Dialogue: 0,0:20:45.58,0:20:47.62,Default,,0,0,0,,Ona bilet verdiğini söyledi.
+Dialogue: 0,0:20:47.62,0:20:51.00,Default,,0,0,0,,Bunun için Matsuoka'yla yarışmak\Nzorunda kaldığına inanabiliyor musun?
+Dialogue: 0,0:20:51.00,0:20:52.67,Default,,0,0,0,,Mekik koşusuydu, değil mi?
+Dialogue: 0,0:20:52.67,0:20:55.13,Default,,0,0,0,,Ayakta zor duracak hâle gelene dek koştu.
+Dialogue: 0,0:20:55.13,0:20:57.51,Default,,0,0,0,,Merak ediyorum da,
+Dialogue: 0,0:20:57.51,0:21:01.09,Default,,0,0,0,,ne tür bir arkadaş için\Nbu kadar uğraşıp bilet alır ki?
+Dialogue: 0,0:21:01.09,0:21:04.43,Default,,0,0,0,,Dur bir dakika, yoksa sevgilisi mi o?
+Dialogue: 0,0:21:05.68,0:21:06.60,Default,,0,0,0,,Ha?
+Dialogue: 0,0:21:06.60,0:21:08.93,Default,,0,0,0,,Halletmesi gereken bir şey olduğunu söyledi.
+Dialogue: 0,0:21:09.56,0:21:10.81,Default,,0,0,0,,Tamam, sıradaki şarkı.
